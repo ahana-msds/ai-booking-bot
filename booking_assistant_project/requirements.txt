@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+python-dotenv
+sqlalchemy
+pydantic
+PyPDF2
+email-validator
+scikit-learn
+tqdm
+requests
